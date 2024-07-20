@@ -1,6 +1,6 @@
 # Sequence-to-create-symbol-tables
 
-## Still in progress 80%, I will give URLs to my summary gro chapter in github
+## Finished but i'm waiting to finish the second program, I will give URLs to my summary for chapters in github
 
 [LINUX programming interface](https://github.com/MinaSaad123/Linux-programming-interface-book)
 
